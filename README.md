@@ -23,4 +23,6 @@ I’m a MERN stack developer currently focused on building real-world web applic
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/om-prakash-rajbanshi-36930a265/
+
+## About me
 Portfolio:https://omprakashrajbanshi.com.np/
