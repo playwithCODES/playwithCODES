@@ -1,16 +1,25 @@
-## Hi there 👋
+# Om Prakash Rajbanshi
 
-<!--
-**playwithCODES/playwithCODES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a MERN stack developer currently focused on building real-world web applications and improving my backend and frontend skills step by step.
 
-Here are some ideas to get you started:
+## Tech I work with
+- React.js
+- Next.js  
+- Node.js  
+- Express.js  
+- MongoDB
+- postgress 
+- vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m doing right now
+- Building full-stack projects using MERN  
+- Practicing API development and integration  
+- Learning how real-world applications are structured  
+
+## Projects
+- E-commerce application  
+- Authentication system (JWT)  
+- News sentiment analyzer  
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/your-link
