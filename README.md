@@ -1,4 +1,4 @@
-# Om Prakash Rajbanshi
+# Hi I am Om Prakash Rajbanshi
 
 I’m a MERN stack developer currently focused on building real-world web applications and improving my backend and frontend skills step by step.
 
@@ -22,4 +22,5 @@ I’m a MERN stack developer currently focused on building real-world web applic
 - News sentiment analyzer  
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/your-link
+LinkedIn: https://www.linkedin.com/in/om-prakash-rajbanshi-36930a265/
+Portfolio:https://omprakashrajbanshi.com.np/
