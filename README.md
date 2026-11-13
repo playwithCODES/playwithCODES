@@ -17,9 +17,11 @@ I’m a MERN stack developer currently focused on building real-world web applic
 - Learning how real-world applications are structured  
 
 ## Projects
-- E-commerce application  
-- Authentication system (JWT)  
-- News sentiment analyzer  
+- Print Anywhere Webapp, Mobile App and Printer Agent Windows Application
+- OMX Cinemas(A Complete cinema webapp made using MERN Stack)
+- E-commerce application    
+- News sentiment analyzer
+- HamroBsc(A complete webapp for BSc Students) in progress
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/om-prakash-rajbanshi-36930a265/
